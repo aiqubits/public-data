@@ -1,8 +1,8 @@
 {
-    "name": "BUET",
-    "symbol": "BUET",
-    "image": "./buet.png",
-    "description": "BUET",
+    "name": "BET",
+    "symbol": "BET",
+    "image": "./bet.png",
+    "description": "BET",
     "showName": true,
     "extensions": {
   
